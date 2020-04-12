@@ -1,0 +1,12 @@
+#My properties
+my:
+#my.greeting:Hello World
+  list:
+      greeting: Chinmay,Avinash,Ajith,Aditya
+  details: "{firstname:'Aditya',lastname:'Kumar'}"
+
+#User details
+user:
+    firstName: Aditya
+    lastName: Kumar
+    age: 27
